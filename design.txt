@@ -12,18 +12,22 @@
 
 挣值表
 
+    a = select 计划结束时间 as 时间, sum(预计工作量) as PV where 有效=true group by 计划结束时间 
+    b = select 修正实际完成时间 as 时间, sum(已耗成本) as AC, sum(实现计划价值) as EV where 有效=true group by 修正实际完成时间 
+    select 时间，累计(PV)， 累计(AC)， 累计(EV) from (a union b)
+    
+    以时间作为x轴，PV，AC和EV分别作Y轴，作散点图
 
 燃尽图
 
     需求：显示每个迭代中，计划加入的任务和完成的计划任务。
-    a = select 迭代，sum(预计工作量) as totals group by 迭代 order by 迭代开始时间 desc
+    //a = select 迭代，sum(预计工作量) as totals group by 迭代 order by 迭代开始时间 desc
     b = select 迭代，计划开始迭代时 as time ，sum(预计工作量) as plans group by 迭代，计划开始迭代时
     c = select 迭代，实际完成迭代时 as time ，sum(预计工作量) as completes group by 迭代，实际完成迭代时
     
-    只显示最后一个迭代，select 迭代, time, (plans - completes) as rests from (b union c) left join a
+    select time, (plans - completes) as rests from (b union c) where 迭代=?
 
-        
-
+    以time 和 rests 做散点图
 
 
 计划工作总量（每模块）
@@ -33,6 +37,9 @@
 
 
 模块工作总量（每模块）
+
+
+迭代工作总量
 
 
 个人工作总量
