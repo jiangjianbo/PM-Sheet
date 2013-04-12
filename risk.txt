@@ -1,0 +1,224 @@
+风险评估项 
+Size and Scope 规模和范围
+Current estimated total size of the development in mandays 
+当前估算的总开发规模，以人天计算
+Total scheduled duration of the project in months 
+总的项目计划工期长度，以月计算
+Is the project duration too short? i.e. too many staff with insufficient time 
+项目周期是否太短？比如项目成员太多时间太短
+Is the project duration too long with a risk of disruption from loss of or changes in staff? 
+项目周期是否太长，导致人员变动的风险增加？
+The partitioning of the whole development into a number of sub-projects is 
+将整个项目开发工作划分成的子项目个数
+Now that the project has been partitioned compare the original timescale with the new one 
+现在最新的项目日程计划和原始的计划相比差异多大？
+What is the make up of the team in terms of staff and others? 
+组建团队时，在团队成员和其他人选方面的策略是：
+How many systems will interface with this system? 
+有多少外部系统要和本系统连接？
+Has responsibility for defining the interfaces been allocated? 
+接口的职责都已经定义好了吗？
+How many people will be working full time on the project at its peak? 
+项目高峰期有多少全职工作人员？
+ 
+IT Tools & Methods IT工具和方法
+Will the project require changes to the normal procedures and standards for system developments? 
+该项目是否需要改变正常的系统开发过程和标准吗？
+Will the project require changes to guidelines for control and security? 
+该项目是否需要改变控制与安全指引？
+How reliable are estimates for the volumes, frequencies, times and types of transactions etc.? 
+在项目容量、频率、时间和事务类型方面，估算的准确度有多高？
+Has the project been given a clear definition of its priorities and sufficient support and backing from the client's IT department? 
+项目是否得到了明确的优先级定义、足够的支持和客户方IT部门的协助？
+Will the project use a methodology familiar to the majority of the project team? 
+项目大多数成员是否熟悉项目使用的开发架构、设计方法？
+How satisfactory is the access to computer equipment necessary for project staff's work and what are the response times like? 
+项目成员对获得工作所需的机器设备及其响应时间的满意度如何？
+Will the project use standard methods for project management? 
+项目使用标准的项目管理方法么？
+Will the project use standard methods for testing and approval? 
+项目使用标准的测试和确认方法？
+What is the extent of relative IT experience amongst the project's IT staff? 
+项目IT成员中相关的IT经验到了哪种程度？
+ 
+Project Organization 项目组织
+What percentage of the development team are assigned less than full time to the project? 
+项目开发团队中工作分配不足的人员占多大比例？
+How would you rate the balance between IT personnel and other staff? 
+项目中IT人员和其他人员的分布均衡的比例？
+Has the project staff the experience and the time to cope with areas such as administration and operating procedures? 
+项目成员有经验和实践去处理管理和操作过程领域的事情吗？
+To what extent will end users participate in the project activities? 
+最终用户参与项目活动的程度有多大？
+What is the extent of the project staff's knowledge of the application? 
+项目组员了解应用程序相关知识的程度有多大？
+Is there a possibility that the project could be affected by a high turnover of personnel? 
+项目受人员变动影响的可能性有多大？
+Will personnel not directly involved in the project be examining it at critical stages eg. members of the PMO or QA team? 
+在关键阶段的审查是否有项目组外的人员参与？比如PMO或QA的成员？
+Is there a possibility that the project could be affected by poor motivation or a lack of cooperation amongst personnel because of the environment or interpersonal relations? 
+是否有可能因为环境或人际关系问题影响到项目成员的积极性和合作？
+ 
+ 
+Project Management 项目管理
+What is the extent of project management's experience of systems in this business area? 
+项目经理在业务领域的系统经验程度？
+What is the extent of the project management's knowledge of data processing? 
+项目经理的数据处理经验程度？
+What is the extent of the project management's experience of projects of a similar nature and size? 
+项目经理的相似类型、相似规模的经验程度如何？
+Have change control procedures been agreed and are they actually being used by the team and client staff? 
+团队和客户是否同意变更控制流程并在实际中使用？
+What is the extent of the project management's experience of the technical environment? 
+项目经理的技术环境（项目管理、开发的软硬件、方法等）经验程度如何？
+What is the extent of the project management's familiarity with the activities and practices of the client? 
+
+Does the structure of the project management permit sound commercial decisions to be made? 
+ 
+ 
+The Project's Operating conditions 
+What is the probability that the priority of the project will be reduced by the client during its life? 
+Are there organisational guidelines or regulations governing internal security and safety or if not have they been detailed in the plan of approach by the project management? 
+How complex are the rules and regulations governing the project eg. legislation? 
+Will more than normal reporting information be required during the project? 
+ 
+ 
+Business Process 
+To what extent has the new system already been automated? 
+To what extent will there be changes to specific manual processes? 
+To what extent will there be changes to current overall administrative procedures? 
+Will the system users be exposed to new equipment possibly requiring them to be trained? 
+To what extent will the user need to be trained for them to fully utilise the new system? 
+What experience do end users have of data processing? 
+How many new working procedures or techniques will be required? 
+Does experience of the new working procedures or techniques exist? 
+What is the extent of end users knowledge of the application? 
+ 
+ 
+Business Requirements 
+Is there a real business implementation deadline? 
+The system being built will replace the current: 
+What is the current attitude of the users towards the project? 
+What is the probability that the requirement specification will be changed? 
+How involved and committed are managers of the end user personnel? 
+Is the steering committee familiar with the client's activities and working practices? 
+ 
+ 
+Cross-Organizational Topics 
+What is risk assessment Severity of current projects that this project depends on? 
+What is the geographical split of the project? 
+How many user departments are contributing to the project? 
+How many different client organizational units e.g. departments, divisions etc have responsibility for the system? 
+How many people will be using the system once it becomes operational? 
+How many organizational units will be involved when the system is live? 
+If the application will affect third parties eg. customers, suppliers or agents etc. has their involvement been taken into consideration? 
+ 
+ 
+Technology - Hardware 
+Are there any options to using new equipment or a new network that would still enable the system to function correctly? 
+Where will new equipment be required for the project or live system? 
+Where will unfamiliar equipment be required? 
+Where will equipment be required that is a new product for the supplier? 
+How many new suppliers will need to be contacted during the project? 
+The system will require network connections from the systems computer to 
+Where does expertise of the new network reside? Use the lower risk if more than one applicable? 
+How satisfactory will the support from the supplier of the system be? 
+ 
+ 
+Technology - Software 
+Where does experience in the intended programming language (s) reside? select the lower risk if more than one is applicable 
+Which system software is new to the project team? Specify Other________________ 
+Is the system software a new release/version? 
+How many new suppliers will be needed for the system software? 
+Will ready-made packaes be used for application software? 
+Will the package require changes or additions? 
+How many users of the packaged software are there in this country? 
+What experience have clients of the supplier had in using a similar system or equipment? 
+How satisfactory will the support from the supplier of the system be? 
+Will fourth generation application facilities be used eg. graphics or report generators etc? 
+ 
+ 
+Project Specific 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Complexity 
+Scope or requirements uncertainty 
+Stringent performance requirements 
+Stringent acceptance criteria 
+Leading edge, unreliable, or unproven technology 
+Uniqueness 
+Project Manager not full time 
+Inflexible deadlines 
+Scarce funds, funds from multiple sources 
+Team over-specialized 
+Opposition 
+Reliance on others 
+Business or technical standards not available 
+Tools not available 
+Over-specification (of function, security, generality, expandability, documentation) 
+Volatile business area, many reorganizations 
+Estimates not credible 
+Benefits oversold, or not credible 
+Stringent contract conditions (payment terms, cancellation options, liability, etc.) 
+System introduces new concepts, making existing knowledge obsolete) 
+Very many stakeholders, weak commitment 
+Major changes to central organization structure 
+System conflicts with personal reward systems, does not support personal interests 
+Widespread apathy - 'just tell me what to do' 
+ 
+ 
+ 
+1. Size and scope 2. IT Tools & Methods 3. Project Organization 4. Project Management 5. Project operating conditions 6. Business Process 7. Business Requirements 8. Cross Organization 9. Technology - Hardware
+0 0 0 0 0 0 0 0 0
+108 102 121 87 33 116 79 67 106
+0 0 0 0 0 0 0 0 0
+ 
+Green Green Green Green Green Green Green Green Green
+ 
+Red 
+Yellow 
+Green 
+ 
+ 
+ 
+ 
+ 
+2.1 
+9 
+ 
+9.7 9.1 10.6 10.7 10.8 10.9 
+12 12 20 9 25 12 
+ 
+7.6 8.7 
+9 12 
+ 
+Other points to consider 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
