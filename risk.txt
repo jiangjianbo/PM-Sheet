@@ -72,75 +72,111 @@ Have change control procedures been agreed and are they actually being used by t
 What is the extent of the project management's experience of the technical environment? 
 项目经理的技术环境（项目管理、开发的软硬件、方法等）经验程度如何？
 What is the extent of the project management's familiarity with the activities and practices of the client? 
-
+项目经理对客户的行为和习惯熟悉程度如何？
 Does the structure of the project management permit sound commercial decisions to be made? 
+项目的管理结构是否允许作出充分的商业决策？
  
- 
-The Project's Operating conditions 
+The Project's Operating conditions 项目的工作条件
 What is the probability that the priority of the project will be reduced by the client during its life? 
+在项目周期内客户降低项目优先级的可能性有多大？
 Are there organisational guidelines or regulations governing internal security and safety or if not have they been detailed in the plan of approach by the project management? 
+是否有组织级内部安全和保密方面的的指引或规定？如果没有的话，是否已经列在详细计划中？
 How complex are the rules and regulations governing the project eg. legislation? 
+治理项目的规则和制度有多复杂？例如立法？
 Will more than normal reporting information be required during the project? 
+项目期间是否有超出正常报告信息的必要吗？
  
- 
-Business Process 
+Business Process 业务流程
 To what extent has the new system already been automated? 
+新系统已经实现的自动化到了何种程度？
 To what extent will there be changes to specific manual processes? 
+特定人工流程的变化会到何种程度？
 To what extent will there be changes to current overall administrative procedures? 
+当前总的管理流程会有多大程度的变化？
 Will the system users be exposed to new equipment possibly requiring them to be trained? 
+系统用户迁移到新系统的的时候是否需要经过培训？
 To what extent will the user need to be trained for them to fully utilise the new system? 
+用户需要经过多大程度的培训之后才能完全运用新系统？
 What experience do end users have of data processing? 
+最终用户的数据处理需要什么样的经验？
 How many new working procedures or techniques will be required? 
+将需要多少心得工作程序和技术？
 Does experience of the new working procedures or techniques exist? 
+新的工作程序和技术相关的经验是否已经存在？
 What is the extent of end users knowledge of the application? 
+最终用户掌握的应用程序的知识到了什么程度？
  
- 
-Business Requirements 
+Business Requirements 业务需求
 Is there a real business implementation deadline? 
+是否存在真实的业务实现期限？
 The system being built will replace the current: 
+正在构建的系统将取代当前的
 What is the current attitude of the users towards the project? 
+用户对项目的当前态度如何？
 What is the probability that the requirement specification will be changed? 
+需求变更的可能性有多大？
 How involved and committed are managers of the end user personnel? 
+全体最终用户的管理者是如何参与项目的？
 Is the steering committee familiar with the client's activities and working practices? 
+是否有熟悉客户的活动和工作实践的指导委员会存在？
  
- 
-Cross-Organizational Topics 
+Cross-Organizational Topics 跨组织的问题
 What is risk assessment Severity of current projects that this project depends on? 
+当前项目所依赖的风险评估严重程度多高？
 What is the geographical split of the project? 
+项目的地域分布如何？
 How many user departments are contributing to the project? 
+多少用户部门为项目做了贡献？
 How many different client organizational units e.g. departments, divisions etc have responsibility for the system? 
+多少不同的客户组织单元（比如部门、分公司等）负责这个系统？
 How many people will be using the system once it becomes operational? 
+当系统启用之后，大改有多少人会用它
 How many organizational units will be involved when the system is live? 
+系统启用之后，多少组织单元会参与进来？
 If the application will affect third parties eg. customers, suppliers or agents etc. has their involvement been taken into consideration? 
+如果应用程序对第三方有影响的话（比如：客户、供应商或代理商等），他们的参与已经被考虑过了吗？
  
- 
-Technology - Hardware 
+Technology - Hardware 技术-硬件
 Are there any options to using new equipment or a new network that would still enable the system to function correctly? 
+是否有预案使用新设备或新网络让系统保持可用并正常运行？
 Where will new equipment be required for the project or live system? 
+哪些地方需要为项目或系统运行装备新设备？
 Where will unfamiliar equipment be required? 
+那里需要用到不熟悉的设备？
 Where will equipment be required that is a new product for the supplier? 
+哪些地方需要的装备对供应商来说也是新设备？
 How many new suppliers will need to be contacted during the project? 
+项目期间多少新供应商需要联系？
 The system will require network connections from the systems computer to 
+系统需要从系统计算机到。。。的网络连接
 Where does expertise of the new network reside? Use the lower risk if more than one applicable? 
+那里需要使用到新网络的专门技术？需要在多个方案中选择一个风险较低的实施？
 How satisfactory will the support from the supplier of the system be? 
+系统供应商的服务满意度有多高？
  
- 
-Technology - Software 
+Technology - Software 技术-软件
 Where does experience in the intended programming language (s) reside? select the lower risk if more than one is applicable 
+选中的有经验的编程语言将用在哪些地方？如果有多个选择的话，选择一个风险较低的。
 Which system software is new to the project team? Specify Other________________ 
+对于项目团队，那个系统软件是新接触的？指定其他。。。
 Is the system software a new release/version? 
+系统软件是最新版本的吗？
 How many new suppliers will be needed for the system software? 
-Will ready-made packaes be used for application software? 
+系统软件需要几个供应商？
+Will ready-made packages be used for application software? 
+应用软件是否会用到现成的程序包？
 Will the package require changes or additions? 
+程序包是否需要修改或补充？
 How many users of the packaged software are there in this country? 
+程序包软件在这个国家有多少用户在用？
 What experience have clients of the supplier had in using a similar system or equipment? 
+供应商的在使用类似系统或设备的客户得到了哪些经验？
 How satisfactory will the support from the supplier of the system be? 
+系统供应商的支持满意度如何？
 Will fourth generation application facilities be used eg. graphics or report generators etc? 
+是否使用了高层次语言（比如图形或报表生成器？）
  
- 
-Project Specific 
- 
- 
+Project Specific 项目特色
  
  
  
@@ -153,30 +189,36 @@ Project Specific
  
  
  
-Data Complexity 
-Scope or requirements uncertainty 
-Stringent performance requirements 
-Stringent acceptance criteria 
-Leading edge, unreliable, or unproven technology 
-Uniqueness 
-Project Manager not full time 
-Inflexible deadlines 
-Scarce funds, funds from multiple sources 
-Team over-specialized 
-Opposition 
-Reliance on others 
-Business or technical standards not available 
-Tools not available 
-Over-specification (of function, security, generality, expandability, documentation) 
-Volatile business area, many reorganizations 
-Estimates not credible 
-Benefits oversold, or not credible 
-Stringent contract conditions (payment terms, cancellation options, liability, etc.) 
-System introduces new concepts, making existing knowledge obsolete) 
-Very many stakeholders, weak commitment 
-Major changes to central organization structure 
-System conflicts with personal reward systems, does not support personal interests 
-Widespread apathy - 'just tell me what to do' 
+Project Specific Total	项目特色汇总								
+									
+Common IT Project Risk Factors (Not specifically identified in Worksheets 1 - 5)	
+常见IT项目风险因素（表格1-5中没有特别指出）								
+ 
+ 
+Data Complexity 数据复杂度
+Scope or requirements uncertainty 适用范围或要求的不确定性
+Stringent performance requirements 严格的性能要求
+Stringent acceptance criteria 严格的验收标准
+Leading edge, unreliable, or unproven technology 前沿的、不可靠的或未经验证的技术
+Uniqueness 特殊性
+Project Manager not full time 项目经理不是全职
+Inflexible deadlines 严格的截止日期
+Scarce funds, funds from multiple sources 缺少资金或资金有多个来源渠道
+Team over-specialized 过度专业的团队
+Opposition 强烈的反对
+Reliance on others 依赖外部因素
+Business or technical standards not available 没有业务或技术标准
+Tools not available 没有工具
+Over-specification (of function, security, generality, expandability, documentation) 标准过高（功能、安全性、通用性、扩展性、文档）
+Volatile business area, many reorganizations 不稳定的业务领域，需要许多重组
+Estimates not credible 不可信的估算
+Benefits oversold, or not credible 收益吹嘘过高，或不可信
+Stringent contract conditions (payment terms, cancellation options, liability, etc.) 苛刻的合同条件（付款条款、取消条件、担负责任等）
+System introduces new concepts, making existing knowledge obsolete) 系统引入了新概念，导致现有知识过时
+Very many stakeholders, weak commitment 太多的利益相关者，过少的承诺
+Major changes to central organization structure 主要组织架构的重大调整
+System conflicts with personal reward systems, does not support personal interests 系统和个人奖励机制冲突，无法兼顾个人利益
+Widespread apathy - 'just tell me what to do' 大多数都不关心：“只要告诉我做什么”
  
  
  
@@ -193,7 +235,8 @@ Green
  
  
  
- 
+The Maximum Possible numbers in the "blue" coded cells are reduced automatically if certain questions are answered as Not Applicable. These questions and the amount subtracted from the relevant groups' Maximum Possible figures are shown below.  	
+当对应问题回答为“不适用”时，蓝色单元格中的最大可能性值会自动减少。这些问题和响应数额都会从如下表格中减去值。
  
 2.1 
 9 
@@ -204,10 +247,10 @@ Green
 7.6 8.7 
 9 12 
  
-Other points to consider 
+Other points to consider 要考虑的其他要点
  
- 
- 
+There may be other risks not identified in the above questions. If the standard risk assessment is not to be carried out then these further risks should be documented eg. Quality of estimates, Mid-way start etc.		
+可能有一些其他风险没能在以上问题中识别，如果标准风险评估没能贯彻执行，则这些存在风险需要记录在案，例如评估的质量、半路启动等。
  
  
  
