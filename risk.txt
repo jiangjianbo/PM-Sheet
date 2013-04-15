@@ -12,8 +12,13 @@ The partitioning of the whole development into a number of sub-projects is
 将整个项目开发工作划分成的子项目个数
 Now that the project has been partitioned compare the original timescale with the new one 
 现在最新的项目日程计划和原始的计划相比差异多大？
+{既然现在的项目计划已经细化了，那么看看和原来（没有细化之前）的有什么区别}
 What is the make up of the team in terms of staff and others? 
 组建团队时，在团队成员和其他人选方面的策略是：
+我觉得这个有点歧义，“策略”是讲怎么选择人和其他方面，但是make up of只是说结果，比如说，我的团队是有1个项目经理，1个架构师，3个开发，1个测试组成。
+但是翻译成“策略”，有点“我要怎么挑选架构师，怎么挑选项目经理”的感觉。我建议翻译成，“团队在人员和其他方面的组成是什么样的”
+
+
 How many systems will interface with this system? 
 有多少外部系统要和本系统连接？
 Has responsibility for defining the interfaces been allocated? 
@@ -34,6 +39,9 @@ Will the project use a methodology familiar to the majority of the project team?
 项目大多数成员是否熟悉项目使用的开发架构、设计方法？
 How satisfactory is the access to computer equipment necessary for project staff's work and what are the response times like? 
 项目成员对获得工作所需的机器设备及其响应时间的满意度如何？
+Alex's Comments: 这里是两个问句，1，问的是否满意，2，问的是怎样的相应时间才满意。
+
+
 Will the project use standard methods for project management? 
 项目使用标准的项目管理方法么？
 Will the project use standard methods for testing and approval? 
@@ -48,6 +56,8 @@ How would you rate the balance between IT personnel and other staff?
 项目中IT人员和其他人员的分布均衡的比例？
 Has the project staff the experience and the time to cope with areas such as administration and operating procedures? 
 项目成员有经验和实践去处理管理和操作过程领域的事情吗？
+Alex's Comments： 项目成员有过管理和流程操作的经验吗？
+
 To what extent will end users participate in the project activities? 
 最终用户参与项目活动的程度有多大？
 What is the extent of the project staff's knowledge of the application? 
@@ -58,21 +68,34 @@ Will personnel not directly involved in the project be examining it at critical 
 在关键阶段的审查是否有项目组外的人员参与？比如PMO或QA的成员？
 Is there a possibility that the project could be affected by poor motivation or a lack of cooperation amongst personnel because of the environment or interpersonal relations? 
 是否有可能因为环境或人际关系问题影响到项目成员的积极性和合作？
+Alex's Comments: 这个是说“项目会不会因为很差的激励制度，和缺少团队协作而受到影响”。
+
  
  
 Project Management 项目管理
 What is the extent of project management's experience of systems in this business area? 
 项目经理在业务领域的系统经验程度？
+Alex's Comments: 项目管理团队对业务系统的经验达到什么程度？
+
 What is the extent of the project management's knowledge of data processing? 
 项目经理的数据处理经验程度？
+Alex's Comments: 项目管理团队的数据处理经验程度？
+
 What is the extent of the project management's experience of projects of a similar nature and size? 
 项目经理的相似类型、相似规模的经验程度如何？
+Alex's Comments: 项目管理团队的相似类型、相似规模的经验程度如何？
+
 Have change control procedures been agreed and are they actually being used by the team and client staff? 
 团队和客户是否同意变更控制流程并在实际中使用？
 What is the extent of the project management's experience of the technical environment? 
 项目经理的技术环境（项目管理、开发的软硬件、方法等）经验程度如何？
+Alex's Comments: 项目管理团队的...？
+
 What is the extent of the project management's familiarity with the activities and practices of the client? 
 项目经理对客户的行为和习惯熟悉程度如何？
+Alex's Comments: 项目管理团队的...？
+
+
 Does the structure of the project management permit sound commercial decisions to be made? 
 项目的管理结构是否允许作出充分的商业决策？
  
@@ -101,8 +124,12 @@ What experience do end users have of data processing?
 最终用户的数据处理需要什么样的经验？
 How many new working procedures or techniques will be required? 
 将需要多少心得工作程序和技术？
+Alex's Comments: 新的工序
+
 Does experience of the new working procedures or techniques exist? 
 新的工作程序和技术相关的经验是否已经存在？
+Alex's Comments: 工序，是否已经拥有新工序和新技术的经验？
+
 What is the extent of end users knowledge of the application? 
 最终用户掌握的应用程序的知识到了什么程度？
  
