@@ -1,4 +1,4 @@
-风险评估项 
+﻿风险评估项 
 Size and Scope 规模和范围
 Current estimated total size of the development in mandays 
 当前估算的总开发规模，以人天计算
@@ -123,11 +123,11 @@ To what extent will the user need to be trained for them to fully utilise the ne
 What experience do end users have of data processing? 
 最终用户的数据处理需要什么样的经验？
 How many new working procedures or techniques will be required? 
-将需要多少心得工作程序和技术？
+将需要多少心得工序和技术？
 Alex's Comments: 新的工序
 
 Does experience of the new working procedures or techniques exist? 
-新的工作程序和技术相关的经验是否已经存在？
+新的工序和技术相关的经验是否已经存在？
 Alex's Comments: 工序，是否已经拥有新工序和新技术的经验？
 
 What is the extent of end users knowledge of the application? 
@@ -224,8 +224,8 @@ Common IT Project Risk Factors (Not specifically identified in Worksheets 1 - 5)
  
 Data Complexity 数据复杂度
 Scope or requirements uncertainty 适用范围或要求的不确定性
-Stringent performance requirements 严格的性能要求
-Stringent acceptance criteria 严格的验收标准
+Stringent performance requirements 严苛的性能要求
+Stringent acceptance criteria 严苛的验收标准
 Leading edge, unreliable, or unproven technology 前沿的、不可靠的或未经验证的技术
 Uniqueness 特殊性
 Project Manager not full time 项目经理不是全职
